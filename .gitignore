@@ -1,2 +1,5 @@
-.o
-.exe
+# Compiled Object files
+*.o
+
+# Executables
+*.exe
